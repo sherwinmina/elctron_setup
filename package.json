@@ -7,5 +7,8 @@
     "start": "electron main.js"
   },
   "author": "Sherwin Mina",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
+  }
 }
